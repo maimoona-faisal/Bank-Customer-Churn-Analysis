@@ -1,5 +1,5 @@
 # Bank Customer Churn Analysis 
-
+#
 ## Project Overview
 
 This project uses SQL to perform a comprehensive exploratory data analysis (EDA) on a banking dataset to identify and quantify the primary drivers of customer churn (account closure). The goal is to provide data-backed insights and recommendations to help the bank develop targeted retention strategies, ultimately protecting its customer base and maximizing lifetime value.
